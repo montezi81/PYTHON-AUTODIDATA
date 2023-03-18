@@ -1,0 +1,6 @@
+{
+  "nome": "Marcos",
+  "telefone": "21-98807-7518",
+  "permissões": ["basico", "intermediario", "administrador"],
+  "admin": true
+}

@@ -1,0 +1,17 @@
+{
+  "Usuários": [
+    {
+      "nome": "Marcos",
+      "telefone": "21-9999-7518",
+      "permissões": ["basico", "intermediario", "administrador"],
+      "admin": true
+    },
+
+    {
+      "nome": "Roberta",
+      "telefone": "21-9999-6659",
+      "permissões": ["basico", "intermediario"],
+      "admin": false
+    }
+  ]
+}
